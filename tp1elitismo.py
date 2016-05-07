@@ -34,7 +34,7 @@ def menu2():
 	print "Ingrese elitismo"
 	print "\t1 - 0"
 	print "\t2 - 2"
-	print "\t3 - 4"
+	print "\t4 - 4"
 	
     
 
